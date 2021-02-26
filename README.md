@@ -1,2 +1,3 @@
 # Hello_world
-Nowe
+
+Zaczynamy tworzyć a nie się opierd@lać. :P
